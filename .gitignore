@@ -145,3 +145,6 @@ vite.config.js
 
 #Readme files removing
 README.md
+
+# data based json
+data.json
