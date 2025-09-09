@@ -9,7 +9,7 @@ const Counter = () => {
     <h1> count : {count}</h1>
     <button onClick={()=>(setCount(count+1))} >increment</button>
     <button onClick={()=>(setCount(count-1))}>decrement</button>
-    <button onClick={()=>(setCount(count=0))}>RESET</button>
+    {/* <button onClick={()=>(setCount(count=0))}>RESET</button> */}
     </>
     )
 }
